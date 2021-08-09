@@ -12,3 +12,5 @@ GAME RULES:
 3. ROCK beats SCISSORS
 
 Developed by Abhinav Gupta
+
+This project is under the MIT License
