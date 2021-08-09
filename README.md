@@ -1,5 +1,7 @@
 # Rock-Paper-Scissors
 
+[![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](https://raw.githubusercontent.com/AbhinavGupta2002/AstonHack2021/main/LICENSE)
+
 Rock-Paper-Scissors is the digitalized version of the classic game, where the player plays against the computer.
 Additonally, the user can set any number of rounds that need to be won in order to win the entire game.
 
