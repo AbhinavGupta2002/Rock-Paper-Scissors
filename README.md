@@ -4,6 +4,8 @@
 
 Rock_Paper_Scissors is the digitalized version of the classic game; the player plays against the computer.
 
+The code has be written in an object oriented programming style - abstraction and encapsulation.
+
 Additonally, the user can set any number of rounds that need to be won in order to win the entire game.
 
 GAME RULES:
